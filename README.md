@@ -16,7 +16,7 @@ Features:
   
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/real-time-pose-estimation.git
+   git clone https://github.com/dipan313/real-time-pose-estimation.git
    
 3. Install the required libraries:
    pip install mediapipe opencv-python
